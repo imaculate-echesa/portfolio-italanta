@@ -13,7 +13,7 @@
 <h1 align="center">Imaculate Zepwa</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">iTalanta open-source project in patner with moringa</h3>
+<h3 align="center">iTalanta open-source project in patnership with moringa</h3>
 
 <br/>
 
