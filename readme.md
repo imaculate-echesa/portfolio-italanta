@@ -10,7 +10,7 @@
   -- 
   -->
 
-<h1 align="center"> Hi wave, I'm Imaculate Zepwa</h1>
+<h1 align="center"> Hi , I'm Imaculate Zepwa</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="center">iTalanta open-source project in patnership with moringa</h3>
@@ -30,22 +30,20 @@
   <!-- Stack overflow -->
  
 
-  <!-- Other badges -->
-  <!-- 
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
-</p>
+  
+Get to know me
 
-<br/>
+>Softaware developer React/Javascript, Ruby/Ruby on rails.
+  
+  
+  My work
 
+> I’m currently working on Elewa
+  
 
-<!-- 
-  -- SECTION: OVERVIEW
-  -- 
-  -->
+  Interested ?
 
-
-
-
+>Reach me on immaculatezepwa18@gmail.com
 
 
 
